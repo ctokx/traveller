@@ -1,0 +1,7 @@
+.home {
+  height: 200vh;
+  width: 200vh;
+  background-image: url("./assets/galaxy.jpg");
+  background-position: center;
+  background-size: cover;
+}

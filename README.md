@@ -1,3 +1,9 @@
+
+This is a dynamic Website where you can control a car using arrow keys on your keyboard. The car can move in four directions - up, down, left, and right. The objective of the website is to move the car and reach the end point (which are the pages of the website, such as contact, about and portfolio pages).
+
+The game also includes two buttons, which can be clicked using the spacebar on your keyboard. Clicking the buttons will display a message on the screen.
+
+This game is built using React, and demonstrates how to use keyboard events and button clicks in React applications.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
